@@ -1,0 +1,3 @@
+interface RoomTypeInterface{
+    codeName: string
+}
